@@ -1,4 +1,4 @@
-# 113-1 midterm exam for GrADS
+# 113-1 midterm exam 2 for GrADS
 In this exam,there are 5 questions,a,b,c,d and e.  
 所需資料檔包含sounding_20201123.dat與其描述檔sounding_20201123.ctl,PREC_5km.nc,TCCIPtemp.dat與其描述檔TCCIPtemp.ctl  
 - a.  
