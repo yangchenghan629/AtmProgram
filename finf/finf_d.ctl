@@ -1,0 +1,11 @@
+DSET ^finf_c.dat
+TITLE finf_d TCCIP 2009 total rainfall
+UNDEF -99
+XDEF 41 LINEAR 120 0.05
+YDEF 69 LINEAR 21.9 0.05
+ZDEF 1 levels 1
+TDEF 1 LINEAR 00Z01JAN2009 1mo
+VARS 1
+rain 1 99 total rain in 2009
+ENDVARS
+
