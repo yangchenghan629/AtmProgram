@@ -58,6 +58,7 @@ In this exam,there are 5 questions,a,b,c,d and e.
   - 設定等值線數值為1 2 3 4 5 6
   - 利用色塊等值線畫出臺灣(21.9N-25.3N,120E-122E)日降雨量大於50mm的累積天數(要有colorbar)
   - 儲存圖片為midg_d.png，且長1100、寬850、底色白色
+  >*title少空格*
 - e.  
   讀取TCCIPtemp.dat資料
   - 1.在上圖畫出阿里山(23.51N,120.81E)氣溫距平與其前後各18筆的滑動平均
@@ -74,3 +75,4 @@ In this exam,there are 5 questions,a,b,c,d and e.
     - 利用set tlsupp year只顯示月份
     - 將線條粗細設為12、顏色為深紫色、無符號樣式
   - 3.儲存圖片為mig_e.png，且長1100、寬850、底色白色
+  >*下圖title錯字(~~Alisan~~Alishan)*
