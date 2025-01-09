@@ -1,0 +1,7 @@
+Albedo= 0.30: Effective Radiating Temperature = 254.8 K
+Albedo=-4.00: Invalid Planetary Albedo
+Albedo= 2.80: Invalid Planetary Albedo
+Albedo= 0.47: Effective Radiating Temperature = 237.7 K
+Albedo= 0.75: Effective Radiating Temperature = 197.0 K
+Albedo=90.00: Invalid Planetary Albedo
+Albedo= 0.98: Effective Radiating Temperature = 104.8 K

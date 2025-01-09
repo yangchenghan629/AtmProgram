@@ -1,0 +1,5 @@
+                             Prof1 Prof2 Prof3
+           # of Moist Layer:     1     4     1
+Height of Max. RH Layer (m):  1524  1513   751
+Height of Min. RH Layer (m): 12550 10850 11030
+         # of Invalid Layer:     4     5     4
