@@ -1,0 +1,100 @@
+T=  6.3oC & e=37.1hPa: Supersaturation
+T= 32.3oC & e=59.7hPa: Supersaturation
+T= 11.6oC & e=15.9hPa: Supersaturation
+T= 28.2oC & e=42.7hPa: Supersaturation
+T= 29.3oC & e= 4.9hPa: RH=0.119 & VPD=36.3hPa
+T= 21.7oC & e= 9.3hPa: RH=0.358 & VPD=16.7hPa
+T=  1.9oC & e=23.6hPa: Supersaturation
+T= 22.3oC & e=43.9hPa: Supersaturation
+T= 30.3oC & e=59.6hPa: Supersaturation
+T= 11.2oC & e=29.5hPa: Supersaturation
+T= 18.7oC & e= 9.3hPa: RH=0.432 & VPD=12.2hPa
+T=  8.0oC & e=23.9hPa: Supersaturation
+T=  7.7oC & e=48.5hPa: Supersaturation
+T= 16.4oC & e=48.7hPa: Supersaturation
+T=  0.4oC & e=24.6hPa: Supersaturation
+T=  1.1oC & e=53.7hPa: Supersaturation
+T= 33.6oC & e=28.5hPa: RH=0.538 & VPD=24.5hPa
+T= 15.0oC & e=41.0hPa: Supersaturation
+T= 20.0oC & e=44.8hPa: Supersaturation
+T=  5.2oC & e=55.1hPa: Supersaturation
+T= 19.8oC & e=59.3hPa: Supersaturation
+T= 26.0oC & e=57.0hPa: Supersaturation
+T= 12.2oC & e=16.0hPa: Supersaturation
+T= 31.0oC & e=11.5hPa: RH=0.252 & VPD=34.1hPa
+T=  3.6oC & e=24.6hPa: Supersaturation
+T= 11.8oC & e=45.2hPa: Supersaturation
+T= 21.0oC & e=23.8hPa: RH=0.957 & VPD=1.1hPa
+T= 13.7oC & e=50.6hPa: Supersaturation
+T= 28.7oC & e=24.2hPa: RH=0.608 & VPD=15.6hPa
+T= 32.6oC & e=10.3hPa: RH=0.206 & VPD=39.7hPa
+T= 23.9oC & e=28.5hPa: RH=0.957 & VPD=1.3hPa
+T=  8.6oC & e= 1.7hPa: RH=0.154 & VPD=9.4hPa
+T=  7.6oC & e=58.5hPa: Supersaturation
+T= 31.8oC & e= 1.3hPa: RH=0.027 & VPD=46.5hPa
+T= 33.8oC & e=59.2hPa: Supersaturation
+T=  6.8oC & e= 4.8hPa: RH=0.491 & VPD=5.0hPa
+T= 11.3oC & e=19.0hPa: Supersaturation
+T= 26.7oC & e=33.1hPa: RH=0.938 & VPD=2.2hPa
+T= 14.4oC & e=44.7hPa: Supersaturation
+T=  1.3oC & e= 2.8hPa: RH=0.423 & VPD=3.8hPa
+T= 14.1oC & e=47.2hPa: Supersaturation
+T=  9.8oC & e=47.4hPa: Supersaturation
+T= 35.4oC & e=46.9hPa: RH=0.798 & VPD=11.9hPa
+T= 20.9oC & e=47.2hPa: Supersaturation
+T=  8.3oC & e=26.5hPa: Supersaturation
+T=  5.8oC & e=21.8hPa: Supersaturation
+T= 27.5oC & e= 6.4hPa: RH=0.173 & VPD=30.6hPa
+T=  6.4oC & e= 8.5hPa: RH=0.895 & VPD=1.0hPa
+T= 12.4oC & e= 4.7hPa: RH=0.329 & VPD=9.6hPa
+T= 26.9oC & e=38.4hPa: Supersaturation
+T= 18.5oC & e=59.4hPa: Supersaturation
+T=  0.9oC & e=35.2hPa: Supersaturation
+T= 28.8oC & e=43.7hPa: Supersaturation
+T= 27.7oC & e= 4.0hPa: RH=0.107 & VPD=33.5hPa
+T= 35.1oC & e=25.0hPa: RH=0.433 & VPD=32.8hPa
+T= 21.4oC & e=49.5hPa: Supersaturation
+T= 37.8oC & e=37.4hPa: RH=0.556 & VPD=29.9hPa
+T=  0.1oC & e=58.0hPa: Supersaturation
+T= 22.1oC & e=11.9hPa: RH=0.447 & VPD=14.7hPa
+T= 30.5oC & e=21.7hPa: RH=0.490 & VPD=22.6hPa
+T=  6.6oC & e=58.5hPa: Supersaturation
+T= 15.4oC & e=22.0hPa: Supersaturation
+T= 16.5oC & e=22.9hPa: Supersaturation
+T= 15.6oC & e=42.0hPa: Supersaturation
+T= 21.4oC & e=10.0hPa: RH=0.392 & VPD=15.5hPa
+T= 16.4oC & e=23.3hPa: Supersaturation
+T= 30.9oC & e=40.6hPa: RH=0.896 & VPD=4.7hPa
+T= 36.7oC & e= 0.2hPa: RH=0.003 & VPD=63.1hPa
+T= 13.6oC & e=37.4hPa: Supersaturation
+T= 23.6oC & e=21.2hPa: RH=0.725 & VPD=8.0hPa
+T= 11.6oC & e=56.2hPa: Supersaturation
+T= 16.0oC & e=36.0hPa: Supersaturation
+T= 21.7oC & e=55.3hPa: Supersaturation
+T=  4.8oC & e=59.2hPa: Supersaturation
+T=  9.4oC & e=33.3hPa: Supersaturation
+T= 37.0oC & e=53.2hPa: RH=0.827 & VPD=11.1hPa
+T=  4.6oC & e= 8.4hPa: Supersaturation
+T= 14.1oC & e= 0.6hPa: RH=0.038 & VPD=15.4hPa
+T= 30.7oC & e=50.4hPa: Supersaturation
+T=  3.3oC & e=17.4hPa: Supersaturation
+T= 36.8oC & e= 5.6hPa: RH=0.088 & VPD=58.0hPa
+T= 34.0oC & e=32.3hPa: RH=0.595 & VPD=21.9hPa
+T= 13.3oC & e=44.4hPa: Supersaturation
+T= 36.4oC & e=32.6hPa: RH=0.524 & VPD=29.6hPa
+T= 35.3oC & e=19.5hPa: RH=0.334 & VPD=38.9hPa
+T= 10.8oC & e= 4.6hPa: RH=0.359 & VPD=8.2hPa
+T= 21.9oC & e=51.4hPa: Supersaturation
+T= 24.3oC & e= 6.3hPa: RH=0.206 & VPD=24.2hPa
+T=  7.5oC & e=35.2hPa: Supersaturation
+T=  9.4oC & e=17.0hPa: Supersaturation
+T=  2.7oC & e=27.7hPa: Supersaturation
+T= 13.3oC & e=48.3hPa: Supersaturation
+T= 36.5oC & e=13.5hPa: RH=0.216 & VPD=49.0hPa
+T= 37.8oC & e=32.1hPa: RH=0.477 & VPD=35.2hPa
+T= 32.2oC & e=13.6hPa: RH=0.278 & VPD=35.3hPa
+T= 30.6oC & e=51.4hPa: Supersaturation
+T=  9.4oC & e=10.6hPa: RH=0.908 & VPD=1.1hPa
+T=  2.7oC & e= 1.4hPa: RH=0.191 & VPD=5.9hPa
+T=  8.3oC & e=50.4hPa: Supersaturation
+T=  9.3oC & e=52.9hPa: Supersaturation
