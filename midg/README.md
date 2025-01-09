@@ -1,7 +1,38 @@
 # 113-1 midterm exam for GrADS
 In this exam,there are 5 questions,a,b,c,d and e.  
-所需資料檔包含  
-- a.
+所需資料檔包含sounding_20201123.dat與其描述檔sounding_20201123.ctl,PREC_5km.nc,TCCIPtemp.dat與其描述檔TCCIPtemp.ctl  
+- a.  
+  讀取sounding_20201123.dat資料  
+  - 1.在左上畫出溫度與露點溫度垂直結構
+    - 利用set vpage 0 5.5 4.25 8.5設定在左上
+    - 利用set parea 1 10 1 7.5設定邊框
+    - 關閉grads圖標
+    - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度與標籤字體樣式
+    - 氣壓層從1025-300
+    - 設定溫度線條粗細為8、露點溫度線條粗細為5
+    - 設定為無標示點
+  - 2.在右上畫出相對濕度垂直結構  
+    - 利用set vpage 5.5 11 4.25 8.5設定在右上
+    - 利用set parea 1 10 1 7.5設定邊框
+    - 關閉grads圖標
+    - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度與標籤字體樣式
+    - 氣壓層從1025-300
+    - 設定線條粗細為4
+    - 設定為無標示點  
+  - 3.在左下畫出風速垂直結構
+    - 利用set vpage 0 5.5 0 4.25設定在左下
+    - 利用set parea 1 10 1 7.5設定邊框
+    - 關閉grads圖標
+    - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度與標籤字體樣式
+    - 氣壓層從1025-300
+    - 設定線條粗細為5  
+  - 4.在右下以vector置中畫出各高度風向
+    - 利用set vpage 5.5 11 0 4.25設定在右下
+    - 利用set parea 1 10 1 7.5設定邊框
+    - 關閉grads圖標
+    - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度與標籤字體樣式
+    - 氣壓層從1025-300
+  - 5.儲存結果為midg_a.png且長1100、寬850、底色白色
 - b.
 - c.
 - d.
