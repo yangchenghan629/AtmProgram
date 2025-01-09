@@ -37,6 +37,14 @@ In this exam,there are 5 questions,a,b,c,d and e.
     - 利用set t 0 2將圖置中
   - 5.儲存結果為midg_a.png且長1100、寬850、底色白色
 - b.
+  讀取PREC_5km.nc資料，畫出2014五月臺灣(120E-122E,21.9N-25.3N)累積降雨
+  - 利用set mdpset hires關閉海岸線
+  - 利用set parea 1 10 1 7.5設定邊框
+  - 關閉grads圖標
+  - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度與標籤字體樣式
+  - 設定等值線數值為50 100 150 200 300 400 500 600 700 800 900 1000
+  - 利用色塊等值線畫出累積雨量(要有colorbar)
+  - 將圖儲存為midg_b.png，且長1100、寬850、底色白色  
 - c.
 - d.
 - e.
