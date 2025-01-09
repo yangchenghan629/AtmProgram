@@ -30,8 +30,11 @@ In this exam,there are 5 questions,a,b,c,d and e.
     - 利用set vpage 5.5 11 0 4.25設定在右下
     - 利用set parea 1 10 1 7.5設定邊框
     - 關閉grads圖標
+    - 利用set frame off關閉顯示座標格線
+    - 利用set xlab off關閉顯示橫軸刻度
     - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度與標籤字體樣式
     - 氣壓層從1025-300
+    - 利用set t 0 2將圖置中
   - 5.儲存結果為midg_a.png且長1100、寬850、底色白色
 - b.
 - c.
