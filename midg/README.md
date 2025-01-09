@@ -36,7 +36,7 @@ In this exam,there are 5 questions,a,b,c,d and e.
     - 氣壓層從1025-300
     - 利用set t 0 2將圖置中
   - 5.儲存結果為midg_a.png且長1100、寬850、底色白色
-- b.
+- b.  
   讀取PREC_5km.nc資料，畫出2014五月臺灣(120E-122E,21.9N-25.3N)累積降雨
   - 利用set mdpset hires關閉海岸線
   - 利用set parea 1 10 1 7.5設定邊框
