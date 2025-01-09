@@ -14,7 +14,7 @@ In this exam,there are 3 questions a,b and c.
 - c.  
   ![eaquation](https://latex.codecogs.com/svg.image?&space;y=f(x)=e^{-2.5x})
     
-  ![eaquation](https://latex.codecogs.com/svg.image?&space;\frac{dy}{dx}=-2.5y)
+  ![eaquation](https://latex.codecogs.com/svg.image?&space;\frac{dy}{dx}=-2.5y)  
   設定dx=0.2,0.05,0.005，畫出不同dx所計算出數值解與其解析解，並儲存為midp_c.png。
   
   
