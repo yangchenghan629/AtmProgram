@@ -15,10 +15,10 @@ In this exam,there are 5 questions,a,b,c,d and e
 - b.
   在finf_b.f95中寫出主程式與副程式
   - 主程式:
-    - 讀取Profile.txt資料並傳入副程式
+    - 讀取Profile.txt資料為陣列並傳入副程式
     - 格式化輸出為finf_b.txt
   - 副程式:
-    - 接收主程式傳入資料
+    - 接收主程式傳入資料陣列
     - 計算相對濕度
     - 回傳潮濕層個數、最濕層高度、最乾層高度與無效值個數
   - 潮濕層定義:當![eaquation](https://latex.codecogs.com/svg.image?-80\leq&space;T\leq&space;50&space;)且![eaquation](https://latex.codecogs.com/svg.image?-80\leq&space;T_{d}\leq&space;50&space;)，
@@ -27,5 +27,19 @@ In this exam,there are 5 questions,a,b,c,d and e
       
     潮濕層定義為該層相對濕度![eaquation](https://latex.codecogs.com/svg.image?RH\geq80%)  
 - c.
+  - 讀取TCCIPrain2009.txt中台灣(21.9N-25.3N,120E-122E)2009年降雨資料
+  - 其中經向有41格，緯向有69格
+  - 輸出二進位檔finf_c.dat  
 - d.
+  - 寫出finf_c.dat描述檔finf_d.ctl，須包含有意義之標題與變數名稱、說明
+  - 無效值需與TCCIPrain2009.txt相同  
 - e.
+  - 寫出finf_e.gs
+  - 讀取finf_c.dat資料
+  - 利用set parea 1 10 1 7.5設定邊框
+  - 關閉grads圖標
+  - 利用set mpdset hires關閉顯示海岸線
+  - 利用set xlopts 1 3 0.15與set ylopts 1 3 0.15設定座標軸刻度字體樣式
+  - 等值線數值為500 1000 1500 200 2500 3000 3500
+  - 以色塊等值線畫出2009年台灣降雨資料(要有colorbar)
+  - 儲存圖片為finf_e.png，且常為1100、寬850、底色白色
